@@ -1,2 +1,14 @@
-# pipe-spool-market-report
-Prefabricated pipe spool / pipe works market report - Southeast Asia, Middle East, Africa, Russia
+# 预制管道与法兰打包服务（Pipe Spool）市场全景分析
+
+面向 **东南亚 · 中东 · 非洲 · 俄罗斯** 的外贸市场与行业数据分析报告（应用场景：天然气、液体等工程项目与设备用管道及法兰的预制打包）。
+
+- **在线报告（HTML）**：https://hahaha580.github.io/pipe-spool-market-report/
+- 报告 Markdown：`report.md`
+- 原始数据表：`data.xlsx`
+
+## 口径声明
+
+- 主口径：全网 / 站外公开来源（市场研究机构公开报告、联合国商品贸易统计与世界银行 WITS 公开数据、相关国家与区域官方公开文件、油气与工程行业媒体、海外承包商与制造商公开资料；检索日期 2026-09-20）
+- 补充口径：阿里巴巴国际站市场参谋与产品参谋（统计周期 2026-09-18）。国际站无独立"预制管段/管道打包服务"类目，报告所用站内类目为 Steel Pipes（201600001），仅反映管材大盘近似状况。
+- 本报告为市场与行业数据分析，**不含采购线索 / 求购商机明细**。
+- 站外公开报告对同一细分口径的规模测算差异较大，测算建议采用区间而非单点数值。
